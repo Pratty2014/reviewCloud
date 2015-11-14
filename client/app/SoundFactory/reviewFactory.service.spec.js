@@ -3,7 +3,7 @@
 describe('Service: SoundFactory', function () {
 
   // load the service's module
-  beforeEach(module('meowmanApp'));
+  beforeEach(module('reviewCloudApp'));
 
   // instantiate service
   var SoundFactory;

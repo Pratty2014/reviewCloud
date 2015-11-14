@@ -5,7 +5,7 @@
 module.exports = {
   // MongoDB connection options
   mongo: {
-    uri: 'mongodb://localhost/meowman-dev'
+    uri: 'mongodb://localhost/reviewCloud-dev'
   },
   sequelize: {
     uri: 'sqlite://',

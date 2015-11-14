@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('meowmanApp')
+angular.module('reviewCloudApp')
   .config(function($stateProvider) {
     $stateProvider
       .state('main', {
