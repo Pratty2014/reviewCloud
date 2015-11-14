@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('meowmanApp')
+angular.module('reviewCloudApp')
   .directive('navbar', function () {
     return {
       templateUrl: 'components/navbar/navbar.html',

@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('meowmanApp', [
+angular.module('reviewCloudApp', [
   'ngCookies',
   'ngResource',
   'ngSanitize',

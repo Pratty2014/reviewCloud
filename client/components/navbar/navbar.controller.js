@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('meowmanApp')
+angular.module('reviewCloudApp')
   .controller('NavbarCtrl', function ($scope, Auth) {
     $scope.menu = [{
       'title': 'Home',

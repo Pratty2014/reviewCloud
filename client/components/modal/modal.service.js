@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('meowmanApp')
+angular.module('reviewCloudApp')
   .factory('Modal', function ($rootScope, $modal) {
     /**
      * Opens a modal

@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('meowmanApp')
+angular.module('reviewCloudApp')
   .directive('footer', function () {
     return {
       templateUrl: 'components/footer/footer.html',

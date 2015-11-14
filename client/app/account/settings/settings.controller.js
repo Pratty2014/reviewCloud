@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('meowmanApp')
+angular.module('reviewCloudApp')
   .controller('SettingsCtrl', function($scope, User, Auth) {
     $scope.errors = {};
 

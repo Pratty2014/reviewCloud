@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('meowmanApp')
+angular.module('reviewCloudApp')
   .factory('SoundFactory', function () {
     return {
       meow0: new Howl({

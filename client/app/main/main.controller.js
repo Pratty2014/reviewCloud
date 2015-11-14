@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('meowmanApp')
+angular.module('reviewCloudApp')
   .controller('MainCtrl', function($scope, $http, socket, $interval, $timeout, SoundFactory) {
 
 
