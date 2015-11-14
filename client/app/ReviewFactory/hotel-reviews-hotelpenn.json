@@ -1,0 +1,312 @@
+{
+  "resultCode": 200,
+  "resultMessage": "SUCCESS",
+  "duration": 256,
+  "version": "3.1.4.5-Bugfix",
+  "rguid": "6408f52db85ab4c3f91b41f0e73976de",
+  "src": "405",
+  "hotels": {
+    "3230705": {
+      "PCLN": {
+        "hotelReviews": [
+          {
+            "hotelId": 3230705,
+            "creationDate": "2015-11-10 15:05:00",
+            "languageCode": "en",
+            "offerNum": 14005638381,
+            "reviewTextGeneral": "",
+            "reviewTextPositive": "nothing really",
+            "reviewTextNegative": "The quality and service at this hotel was so poor. There was no wifi, the room was smelly and dusty, really dusty. The air wasn't working. I ended up checking out of this hotel. They will not refund my payment so that's a shame.",
+            "reviewApprovedFlag": true,
+            "firstName": "Verified Hotel Guest",
+            "homeTown": "New York City, NY",
+            "city": "New York City",
+            "provinceCode": "NY",
+            "countryCode": "US",
+            "overallRatingScore": 1,
+            "overallScore": "1",
+            "activeFlag": true,
+            "ratingApprovedFlag": true,
+            "deltaReviewCount": 1,
+            "travelerTypeId": 8015,
+            "travelerType": "Solo Traveler",
+            "reviewQuestionAnswer": {
+              "5555": "0",
+              "8001": "7",
+              "8002": "1",
+              "8003": "3",
+              "8004": "1",
+              "8005": "1",
+              "8006": "6",
+              "8016": "0",
+              "8017": "1",
+              "8788": "good"
+            },
+            "lastUpdateTime": "2015-11-13 00:55:59",
+            "userLogin": "psingh",
+            "deltaRatingCounts": {
+              "8001": 1,
+              "8002": 1,
+              "8003": 1,
+              "8004": 1,
+              "8005": 1,
+              "8006": 1,
+              "8016": 1,
+              "8017": 1
+            },
+            "deltaRatingValues": {
+              "8001": 7,
+              "8002": 1,
+              "8003": 3,
+              "8004": 1,
+              "8005": 1,
+              "8006": 6,
+              "8016": 0,
+              "8017": 1
+            }
+          },
+          {
+            "hotelId": 3230705,
+            "creationDate": "2015-11-10 10:32:00",
+            "languageCode": "en",
+            "offerNum": 28415255260,
+            "reviewTextGeneral": "",
+            "reviewTextPositive": "Location location location",
+            "reviewTextNegative": "A bit dreary and dated. No where to comfortably sit in my room.",
+            "reviewApprovedFlag": true,
+            "firstName": "Verified Hotel Guest",
+            "homeTown": "Omah, NE",
+            "city": "Omah",
+            "provinceCode": "NE",
+            "countryCode": "US",
+            "overallRatingScore": 7,
+            "overallScore": "7",
+            "activeFlag": true,
+            "ratingApprovedFlag": true,
+            "deltaReviewCount": 1,
+            "travelerTypeId": 8015,
+            "travelerType": "Solo Traveler",
+            "reviewQuestionAnswer": {
+              "5555": "0",
+              "8001": "10",
+              "8002": "8",
+              "8003": "8",
+              "8004": "8",
+              "8005": "7",
+              "8006": "7",
+              "8016": "1",
+              "8017": "7",
+              "8788": "Very good overall."
+            },
+            "lastUpdateTime": "2015-11-13 05:11:55",
+            "userLogin": "nbagani",
+            "deltaRatingCounts": {
+              "8001": 1,
+              "8002": 1,
+              "8003": 1,
+              "8004": 1,
+              "8005": 1,
+              "8006": 1,
+              "8016": 1,
+              "8017": 1
+            },
+            "deltaRatingValues": {
+              "8001": 10,
+              "8002": 8,
+              "8003": 8,
+              "8004": 8,
+              "8005": 7,
+              "8006": 7,
+              "8016": 1,
+              "8017": 7
+            }
+          },
+          {
+            "hotelId": 3230705,
+            "creationDate": "2015-10-14 12:33:00",
+            "languageCode": "en",
+            "offerNum": 13571565392,
+            "reviewTextGeneral": "Hotel lobby was gorgeous. Thought there might be a old nostalgic feeling from look of lobby. When I got to the room is was an old, musty feeling.",
+            "reviewTextPositive": "Proximity to Penn Station and Javitts Center",
+            "reviewTextNegative": "Hallway to room was old and smelled like mold. Room was poorly lit. Room walls were dusty and had holes where pictures should be. Bathtub Ned's to be refitted. Carpets needs to be  shampooed.",
+            "reviewApprovedFlag": true,
+            "firstName": "Jennifer",
+            "homeTown": "Islip Terrace, NY",
+            "city": "Islip Terrace",
+            "provinceCode": "NY",
+            "countryCode": "US",
+            "overallRatingScore": 5,
+            "overallScore": "5",
+            "activeFlag": true,
+            "ratingApprovedFlag": true,
+            "deltaReviewCount": 1,
+            "travelerTypeId": 8020,
+            "travelerType": "Group Traveler",
+            "reviewQuestionAnswer": {
+              "5555": "0",
+              "8001": "10",
+              "8002": "4",
+              "8003": "8",
+              "8004": "6",
+              "8005": "5",
+              "8006": "8",
+              "8016": "0",
+              "8017": "4",
+              "8018": "10",
+              "8788": "Good contact. Told prices and fees upfront."
+            },
+            "lastUpdateTime": "2015-10-20 02:13:18",
+            "userLogin": "sshah",
+            "deltaRatingCounts": {
+              "8001": 1,
+              "8002": 1,
+              "8003": 1,
+              "8004": 1,
+              "8005": 1,
+              "8006": 1,
+              "8016": 1,
+              "8017": 1,
+              "8018": 1
+            },
+            "deltaRatingValues": {
+              "8001": 10,
+              "8002": 4,
+              "8003": 8,
+              "8004": 6,
+              "8005": 5,
+              "8006": 8,
+              "8016": 0,
+              "8017": 4,
+              "8018": 10
+            }
+          }
+        ]
+      },
+      "TRUSTYOU": {
+        "trustuId": "e068effb-8e43-4123-a098-c0556407a4b6",
+        "trustuShortReview": {
+          "summary": {
+            "score": "59",
+            "scoreDescription": "Poor",
+            "reviewsCount": 23942
+          },
+          "summaryList": [
+            {
+              "categoryName": "Room wasn't so nice",
+              "categoryId": "11",
+              "relevance": 0,
+              "score": 29
+            },
+            {
+              "categoryName": "Service was poor",
+              "categoryId": "15",
+              "relevance": 0,
+              "score": 44
+            },
+            {
+              "categoryName": "Bad internet",
+              "categoryId": "18",
+              "relevance": 0,
+              "score": 27
+            }
+          ],
+          "categoryList": [],
+          "hotelTypeList": [
+            {
+              "categoryName": "Guests <pos>recommend this hotel for budget travelers</pos>.",
+              "categoryId": "16k",
+              "relevance": 0,
+              "score": 94
+            }
+          ],
+          "goodToKnowList": [
+            {
+              "categoryName": "Old rooms",
+              "categoryId": "ae0f",
+              "relevance": 1,
+              "score": 16
+            },
+            {
+              "categoryName": "Balcony wasn't nice",
+              "categoryId": "11d",
+              "relevance": 1,
+              "score": 0
+            },
+            {
+              "categoryName": "Old facilities",
+              "categoryId": "deeb",
+              "relevance": 1,
+              "score": 11
+            },
+            {
+              "categoryName": "Best value for money",
+              "categoryId": "22a",
+              "relevance": 1,
+              "score": 78
+            },
+            {
+              "categoryName": "Bad management",
+              "categoryId": "15g",
+              "relevance": 1,
+              "score": 30
+            },
+            {
+              "categoryName": "Train station was close",
+              "categoryId": "14j",
+              "relevance": 1,
+              "score": 100
+            },
+            {
+              "categoryName": "Bad laundry service",
+              "categoryId": "15j",
+              "relevance": 1,
+              "score": 11
+            },
+            {
+              "categoryName": "Conference area wasn't good",
+              "categoryId": "24c",
+              "relevance": 1,
+              "score": 43
+            },
+            {
+              "categoryName": "Fair breakfast prices",
+              "categoryId": "ba62",
+              "relevance": 1,
+              "score": 72
+            },
+            {
+              "categoryName": "Bad kitchenette",
+              "categoryId": "11j",
+              "relevance": 1,
+              "score": 5
+            },
+            {
+              "categoryName": "Bad tour guide",
+              "categoryId": "15f",
+              "relevance": 1,
+              "score": 11
+            },
+            {
+              "categoryName": "Bad minibar",
+              "categoryId": "11g",
+              "relevance": 1,
+              "score": 12
+            },
+            {
+              "categoryName": "TV wasn't so good",
+              "categoryId": "11h",
+              "relevance": 1,
+              "score": 19
+            },
+            {
+              "categoryName": "Bad furniture",
+              "categoryId": "11i",
+              "relevance": 1,
+              "score": 11
+            }
+          ]
+        }
+      }
+    }
+  }
+}
