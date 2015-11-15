@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('reviewCloudApp')
-  .controller('MainCtrl', function($scope, $http, socket, $interval, $timeout, SoundFactory) {
+  .controller('MainCtrl', function($scope, $http, socket, $interval, $timeout, reviewFactory) {
 
 
   });

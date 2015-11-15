@@ -1,3 +1,9 @@
+#first {
+  background: url('/assets/images/bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
 .thing-form {
   margin: 20px 0;
 }
@@ -16,8 +22,68 @@
 .hero-unit {
   position: relative;
   padding: 30px 15px;
-  color: #F5F5F5;
+  color: white;
   text-align: center;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
-  background: #4393B9;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+  top: 15%;
+  margin: 0 auto;
+  h1 {
+    font-size: 50px;
+  }
+  .leead {
+    font-size: 26px;
+  }
+}
+
+.top10 {
+  margin-top: 10%;
+}
+
+.form-block {
+  width: 45%;
+  margin: 0 auto 20px;
+  .date {
+    width: 48%;
+    margin-bottom: 40px;
+    &.left {
+      float: left;
+    }
+    &.right {
+      float: right;
+    }
+  }
+}
+
+label {
+  text-align: left;
+  font-size: 20px;
+  display: block;
+}
+
+input {
+  height: 40px;
+  width: 100%;
+}
+
+.navbar-text {
+  margin-left: 15px;
+}
+
+.cat-container {
+  display: block;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+  overflow: hidden;
+  transition: all 0.3s linear;
+  opacity: 1;
+  transform: rotate(0deg);
+
+  &:hover {
+      opacity: 0.8;
+  }
+
+  &:active, &.rotate {
+    transform: rotate(360deg);
+  }
 }
