@@ -1,0 +1,252 @@
+{
+  "resultCode": 200,
+  "resultMessage": "SUCCESS",
+  "duration": 139,
+  "version": "3.1.4.5-Bugfix",
+  "rguid": "f3f548fe258d83b11d0445b26af113a2",
+  "src": "006",
+  "hotels": {
+    "41191": {
+      "PCLN": {
+        "hotelReviews": [
+          {
+            "hotelId": 41191,
+            "creationDate": "2015-11-05 17:27:00",
+            "languageCode": "en",
+            "offerNum": 13542515392,
+            "reviewTextGeneral": "",
+            "reviewTextPositive": "The hotel is at the best possible location in Manhattan, right on Times Square.",
+            "reviewTextNegative": "The hotel takes advantage of its competitive location advantage and does not provide complimentary wi-fi.  If they cannot do it for free they should at least charge a reasonable price.  Everyone crowds around in the lobby to use the free wi-fi.",
+            "reviewApprovedFlag": true,
+            "firstName": "Elias",
+            "homeTown": "Doral, FL",
+            "city": "Doral",
+            "provinceCode": "FL",
+            "countryCode": "US",
+            "overallRatingScore": 8,
+            "overallScore": "8",
+            "activeFlag": true,
+            "ratingApprovedFlag": true,
+            "deltaReviewCount": 1,
+            "travelerTypeId": 8016,
+            "travelerType": "Traveling as Couple",
+            "reviewQuestionAnswer": {
+              "5555": "0",
+              "8001": "10",
+              "8002": "10",
+              "8003": "10",
+              "8004": "8",
+              "8005": "8",
+              "8006": "10",
+              "8016": "1",
+              "8017": "10",
+              "8788": "I placed my reservation through Priceline but was booked by Booking.com.  The service with them was not nearly as good as what I get from Priceline.  Two years ago I traveled to NYC and Priceline helped with theatre tickets, and other offers including dining and city tours.  Booking.com had none of that."
+            },
+            "lastUpdateTime": "2015-11-09 00:27:56",
+            "userLogin": "psingh",
+            "deltaRatingCounts": {
+              "8001": 1,
+              "8002": 1,
+              "8003": 1,
+              "8004": 1,
+              "8005": 1,
+              "8006": 1,
+              "8016": 1,
+              "8017": 1
+            },
+            "deltaRatingValues": {
+              "8001": 10,
+              "8002": 10,
+              "8003": 10,
+              "8004": 8,
+              "8005": 8,
+              "8006": 10,
+              "8016": 1,
+              "8017": 10
+            }
+          },
+          {
+            "hotelId": 41191,
+            "creationDate": "2015-10-19 09:56:00",
+            "languageCode": "en",
+            "offerNum": 22809460394,
+            "reviewTextGeneral": "The size of the hotel room was large for being a Manhattan hotel.  Most of the other hotels I've stayed in in NYC are typically smaller than average - this one was larger than average.  A nice surprise when we arrived.",
+            "reviewTextPositive": "close to times Broadway shows, restaurants and subway",
+            "reviewTextNegative": "very busy part of Manhattan - but that's why you go there isn't it?",
+            "reviewApprovedFlag": true,
+            "firstName": "Joseph",
+            "homeTown": "Appleton, WI",
+            "city": "Appleton",
+            "provinceCode": "WI",
+            "countryCode": "US",
+            "overallRatingScore": 9,
+            "overallScore": "9",
+            "activeFlag": true,
+            "ratingApprovedFlag": true,
+            "deltaReviewCount": 1,
+            "travelerTypeId": 8016,
+            "travelerType": "Traveling as Couple",
+            "reviewQuestionAnswer": {
+              "5555": "0",
+              "8001": "9",
+              "8002": "10",
+              "8003": "10",
+              "8004": "9",
+              "8005": "9",
+              "8006": "9",
+              "8016": "1",
+              "8017": "10",
+              "8018": "9"
+            },
+            "lastUpdateTime": "2015-10-22 02:54:11",
+            "userLogin": "vraninga",
+            "deltaRatingCounts": {
+              "8001": 1,
+              "8002": 1,
+              "8003": 1,
+              "8004": 1,
+              "8005": 1,
+              "8006": 1,
+              "8016": 1,
+              "8017": 1,
+              "8018": 1
+            },
+            "deltaRatingValues": {
+              "8001": 9,
+              "8002": 10,
+              "8003": 10,
+              "8004": 9,
+              "8005": 9,
+              "8006": 9,
+              "8016": 1,
+              "8017": 10,
+              "8018": 9
+            }
+          },
+          {
+            "hotelId": 41191,
+            "creationDate": "2015-10-18 21:57:00",
+            "languageCode": "en",
+            "offerNum": 28763603349,
+            "reviewTextGeneral": "",
+            "reviewTextPositive": "Called in the morning requesting very early check-in; Dudley really came through!!! This was my 24th hotel stay in 2016 and this is the first one in which I am saying I'd love to return soon!!!",
+            "reviewTextNegative": "",
+            "reviewApprovedFlag": true,
+            "firstName": "Jeff",
+            "homeTown": "New York, NY",
+            "city": "New York",
+            "provinceCode": "NY",
+            "countryCode": "US",
+            "overallRatingScore": 10,
+            "overallScore": "10",
+            "activeFlag": true,
+            "ratingApprovedFlag": true,
+            "deltaReviewCount": 1,
+            "travelerTypeId": 8014,
+            "travelerType": "Business Traveler",
+            "reviewQuestionAnswer": {
+              "8001": "10",
+              "8002": "10",
+              "8003": "10",
+              "8004": "10",
+              "8005": "10",
+              "8006": "5",
+              "8016": "1",
+              "8017": "10",
+              "8018": "10"
+            },
+            "lastUpdateTime": "2015-10-20 22:59:35",
+            "userLogin": "kabhatt",
+            "deltaRatingCounts": {
+              "8001": 1,
+              "8002": 1,
+              "8003": 1,
+              "8004": 1,
+              "8005": 1,
+              "8006": 1,
+              "8016": 1,
+              "8017": 1,
+              "8018": 1
+            },
+            "deltaRatingValues": {
+              "8001": 10,
+              "8002": 10,
+              "8003": 10,
+              "8004": 10,
+              "8005": 10,
+              "8006": 5,
+              "8016": 1,
+              "8017": 10,
+              "8018": 10
+            }
+          }
+        ]
+      },
+      "TRUSTYOU": {
+        "trustuId": "416c3c3c-97b6-4961-b859-31cdd3799818",
+        "trustuShortReview": {
+          "summary": {
+            "score": "83",
+            "scoreDescription": "Very Good",
+            "reviewsCount": 7057
+          },
+          "summaryList": [
+            {
+              "categoryName": "Great location",
+              "categoryId": "14",
+              "relevance": 0,
+              "score": 94
+            },
+            {
+              "categoryName": "Great room",
+              "categoryId": "11",
+              "relevance": 0,
+              "score": 72
+            },
+            {
+              "categoryName": "Fantastic service",
+              "categoryId": "15",
+              "relevance": 0,
+              "score": 75
+            }
+          ],
+          "categoryList": [],
+          "hotelTypeList": [
+            {
+              "categoryName": "Guests <pos>recommend this hotel for business travelers</pos>.",
+              "categoryId": "16h",
+              "relevance": 0,
+              "score": 93
+            },
+            {
+              "categoryName": "Guests say it is the <pos>perfect hotel for a city trip</pos>.",
+              "categoryId": "16f",
+              "relevance": 0,
+              "score": 95
+            },
+            {
+              "categoryName": "Guests <pos>recommend this as a luxury hotel</pos>.",
+              "categoryId": "16b",
+              "relevance": 0,
+              "score": 88
+            }
+          ],
+          "goodToKnowList": [
+            {
+              "categoryName": "Entrance area wasn't pleasant",
+              "categoryId": "24b",
+              "relevance": 1,
+              "score": 64
+            },
+            {
+              "categoryName": "Conference area wasn't good",
+              "categoryId": "24c",
+              "relevance": 1,
+              "score": 56
+            }
+          ]
+        }
+      }
+    }
+  }
+}

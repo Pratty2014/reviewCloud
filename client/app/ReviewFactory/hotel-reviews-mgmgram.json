@@ -1,0 +1,256 @@
+{
+  "resultCode": 200,
+  "resultMessage": "SUCCESS",
+  "duration": 122,
+  "version": "3.1.4.5-Bugfix",
+  "rguid": "c35953f52303438ae175ef9dcd4452dd",
+  "src": "403",
+  "hotels": {
+    "49325": {
+      "PCLN": {
+        "hotelReviews": [
+          {
+            "hotelId": 49325,
+            "creationDate": "2015-11-10 22:14:00",
+            "languageCode": "en",
+            "offerNum": 35966320257,
+            "reviewTextGeneral": "",
+            "reviewTextPositive": "Quick, Easy check in and check out.  Very nice clerks.  While wandering around the floor, anytime we had a question for any of the employees they were eager to help.  Good signage for directions.      ",
+            "reviewTextNegative": "No.",
+            "reviewApprovedFlag": true,
+            "firstName": "Raymond",
+            "homeTown": "Mansfield, TX",
+            "city": "Mansfield",
+            "provinceCode": "TX",
+            "countryCode": "US",
+            "overallRatingScore": 10,
+            "overallScore": "10",
+            "activeFlag": true,
+            "ratingApprovedFlag": true,
+            "deltaReviewCount": 1,
+            "travelerTypeId": 8020,
+            "travelerType": "Group Traveler",
+            "reviewQuestionAnswer": {
+              "5555": "0",
+              "8001": "10",
+              "8002": "10",
+              "8003": "10",
+              "8004": "10",
+              "8005": "10",
+              "8006": "10",
+              "8016": "1",
+              "8017": "10",
+              "8788": "No problems.  Every detail for the trip was covered well."
+            },
+            "lastUpdateTime": "2015-11-12 21:55:02",
+            "userLogin": "sshah",
+            "deltaRatingCounts": {
+              "8001": 1,
+              "8002": 1,
+              "8003": 1,
+              "8004": 1,
+              "8005": 1,
+              "8006": 1,
+              "8016": 1,
+              "8017": 1
+            },
+            "deltaRatingValues": {
+              "8001": 10,
+              "8002": 10,
+              "8003": 10,
+              "8004": 10,
+              "8005": 10,
+              "8006": 10,
+              "8016": 1,
+              "8017": 10
+            }
+          },
+          {
+            "hotelId": 49325,
+            "creationDate": "2015-11-08 15:20:00",
+            "languageCode": "en",
+            "offerNum": 29134663349,
+            "reviewTextGeneral": "",
+            "reviewTextPositive": "it seems like the rooms are in the basement when you are in the hallway. Room was dark, poor lightening",
+            "reviewTextNegative": "Black mold on the shower wall grout.",
+            "reviewApprovedFlag": true,
+            "firstName": "Hamid",
+            "homeTown": "Scottsdale, AZ",
+            "city": "Scottsdale",
+            "provinceCode": "AZ",
+            "countryCode": "US",
+            "overallRatingScore": 6,
+            "overallScore": "6",
+            "activeFlag": true,
+            "ratingApprovedFlag": true,
+            "deltaReviewCount": 1,
+            "travelerTypeId": 8015,
+            "travelerType": "Solo Traveler",
+            "reviewQuestionAnswer": {
+              "8001": "9",
+              "8002": "6",
+              "8003": "6",
+              "8004": "6",
+              "8005": "6",
+              "8006": "6",
+              "8016": "1",
+              "8017": "6",
+              "8788": "it didn't seemed like it was the 4 star hotel."
+            },
+            "lastUpdateTime": "2015-11-10 23:09:17",
+            "userLogin": "vraninga",
+            "deltaRatingCounts": {
+              "8001": 1,
+              "8002": 1,
+              "8003": 1,
+              "8004": 1,
+              "8005": 1,
+              "8006": 1,
+              "8016": 1,
+              "8017": 1
+            },
+            "deltaRatingValues": {
+              "8001": 9,
+              "8002": 6,
+              "8003": 6,
+              "8004": 6,
+              "8005": 6,
+              "8006": 6,
+              "8016": 1,
+              "8017": 6
+            }
+          },
+          {
+            "hotelId": 49325,
+            "creationDate": "2015-11-06 12:16:00",
+            "languageCode": "en",
+            "offerNum": 13743066380,
+            "reviewTextGeneral": "",
+            "reviewTextPositive": "Location",
+            "reviewTextNegative": "The smell of sewer gas in my room in the morning during shower time.  No hot water in the morning or late at night (called to let them know but nothing changed).  The length of the hotel hallways - way too long - hotel is too big.",
+            "reviewApprovedFlag": true,
+            "firstName": "Verified Hotel Guest",
+            "homeTown": "Milton, WA",
+            "city": "Milton",
+            "provinceCode": "WA",
+            "countryCode": "US",
+            "overallRatingScore": 6,
+            "overallScore": "6",
+            "activeFlag": true,
+            "ratingApprovedFlag": true,
+            "deltaReviewCount": 1,
+            "travelerTypeId": 8015,
+            "travelerType": "Solo Traveler",
+            "reviewQuestionAnswer": {
+              "5555": "0",
+              "8001": "8",
+              "8002": "7",
+              "8003": "8",
+              "8004": "3",
+              "8005": "6",
+              "8006": "5",
+              "8016": "0"
+            },
+            "lastUpdateTime": "2015-11-09 00:21:51",
+            "userLogin": "psingh",
+            "deltaRatingCounts": {
+              "8001": 1,
+              "8002": 1,
+              "8003": 1,
+              "8004": 1,
+              "8005": 1,
+              "8006": 1,
+              "8016": 1
+            },
+            "deltaRatingValues": {
+              "8001": 8,
+              "8002": 7,
+              "8003": 8,
+              "8004": 3,
+              "8005": 6,
+              "8006": 5,
+              "8016": 0
+            }
+          }
+        ]
+      },
+      "TRUSTYOU": {
+        "trustuId": "131ea13d-e042-4bc5-91d8-1f36afdd29fb",
+        "trustuShortReview": {
+          "summary": {
+            "score": "81",
+            "scoreDescription": "Very Good",
+            "reviewsCount": 19623
+          },
+          "summaryList": [
+            {
+              "categoryName": "Great location",
+              "categoryId": "14",
+              "relevance": 0,
+              "score": 89
+            },
+            {
+              "categoryName": "Good restaurant",
+              "categoryId": "13",
+              "relevance": 0,
+              "score": 73
+            }
+          ],
+          "categoryList": [],
+          "hotelTypeList": [
+            {
+              "categoryName": "Guests consider it a <pos>good eco-friendly hotel</pos>.",
+              "categoryId": "16y",
+              "relevance": 0,
+              "score": 84
+            },
+            {
+              "categoryName": "Guests think this is a <pos>perfect casino hotel</pos>.",
+              "categoryId": "16z",
+              "relevance": 0,
+              "score": 96
+            },
+            {
+              "categoryName": "Guests think this is a <pos>family-friendly hotel</pos>.",
+              "categoryId": "16c",
+              "relevance": 0,
+              "score": 90
+            }
+          ],
+          "goodToKnowList": [
+            {
+              "categoryName": "Pleasant entertainment",
+              "categoryId": "17a",
+              "relevance": 1,
+              "score": 79
+            },
+            {
+              "categoryName": "Affordable parking",
+              "categoryId": "b63a",
+              "relevance": 1,
+              "score": 100
+            },
+            {
+              "categoryName": "Great pool",
+              "categoryId": "20a",
+              "relevance": 1,
+              "score": 83
+            },
+            {
+              "categoryName": "Noisy",
+              "categoryId": "a143",
+              "relevance": 1,
+              "score": 39
+            },
+            {
+              "categoryName": "Bar service wasn't so nice",
+              "categoryId": "15i",
+              "relevance": 1,
+              "score": 61
+            }
+          ]
+        }
+      }
+    }
+  }
+}
