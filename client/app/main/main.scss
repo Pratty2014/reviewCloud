@@ -65,25 +65,35 @@ input {
   width: 100%;
 }
 
-.navbar-text {
-  margin-left: 15px;
+form {
+  button {
+    padding: 10px 40px;
+    background: transparent;
+    border: 1px solid white;
+  }
 }
 
-.cat-container {
-  display: block;
-  margin: 0;
-  padding: 0;
-  cursor: pointer;
-  overflow: hidden;
-  transition: all 0.3s linear;
-  opacity: 1;
-  transform: rotate(0deg);
-
-  &:hover {
-      opacity: 0.8;
+#second {
+  h1 {
+    text-align: center;
   }
-
-  &:active, &.rotate {
-    transform: rotate(360deg);
+  .hotel-block {
+    text-align: center;
+    margin: 60px 0px;
+  }
+  .right {
+    float: right;
+  }
+  p {
+    text-align: center;
+    font-size: 18px;
+  }
+  button {
+    text-align: center;
+    padding: 10px 20px;
+  }
+  iframe {
+    margin: 0 auto;
+    width: 75%;
   }
 }

@@ -1,5 +1,4 @@
-<!-- <navbar></navbar> -->
-<section id='first'>
+<section id='first' ng-hide='!first'>
 
   <div class="hero-unit container">
     <h1>ReviewCloud</h1>
@@ -19,16 +18,58 @@
               <input placeholder="To" class="date right"></input>
             </div>
           </div>
-          <div class="form-block">
-            <input placeholder="Search"></input>
-          </div>
+          <button ng-click="search()">Search</button>
         </form>
       </div>
     </div>
   
   </div>
 
-  
-
 </section>
-<!-- <footer></footer> -->
+
+<section id='second' ng-show='second' ng-hide="hotelInfo">
+  <div class='container'>
+    <div ng-repeat="hotel in hotels" class="hotel-block">
+      <div ng-click="details(hotel)">
+        <div class="right">
+          <p>{{hotel.price}}</p>
+          <button>book</button>
+        </div>
+        <h1>{{hotel.name}}</h1>
+        <iframe/>
+      </div>
+
+    </div>
+    
+  </div>
+</section>
+
+<section id="third" ng-show="hotelInfo">
+  <div class="container">
+    <div>
+      IMAGE HERE
+      <h1>{{hotelInfo.name}}</h1>
+      <h1 class="text-right">{{hotelInfo.price}}</h1>
+    </div>
+    <iframe/>
+    <div>
+      <h1>DESCRIPTION</h1>
+      <p>description here</p>
+    </div>
+    <div>
+      <h1>ROOM TYPES</h1>
+      <p>description here</p>
+    </div>
+    <div>
+      <h1>AMENITIES</h1>
+      <p>description here</p>
+    </div>
+    <div>
+      <h1>OTHER INFO</h1>
+      <p>description here</p>
+    </div>
+
+  </div>
+  
+</section>
+
