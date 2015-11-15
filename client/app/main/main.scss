@@ -21,16 +21,17 @@
 
 .hero-unit {
   position: relative;
-  padding: 30px 15px;
+  padding: 20px;
   color: white;
   text-align: center;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+  background: rgba(55,55,55,0.7);
   top: 15%;
-  margin: 0 auto;
+  margin: 0 auto 40px;
   h1 {
     font-size: 50px;
   }
-  .leead {
+  .lead {
     font-size: 26px;
   }
 }
@@ -42,6 +43,7 @@
 .form-block {
   width: 45%;
   margin: 0 auto 20px;
+  color: white;
   .date {
     width: 48%;
     margin-bottom: 40px;
@@ -63,6 +65,7 @@ label {
 input {
   height: 40px;
   width: 100%;
+  color: grey;
 }
 
 form {
@@ -70,6 +73,7 @@ form {
     padding: 10px 40px;
     background: transparent;
     border: 1px solid white;
+    color: white;
   }
 }
 
